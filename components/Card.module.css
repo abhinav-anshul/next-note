@@ -1,0 +1,15 @@
+.buttoncard {
+  all: unset;
+  background-color: white;
+  padding: 15px 35px 15px 35px;
+  margin: 20px 0px 0px 0px;
+  scroll-behavior: smooth;
+  background-color: white;
+  border-radius: 6px;
+  max-width: 180px;
+  min-width: 180px;
+  min-height: 70px;
+  max-height: 70px;
+  box-shadow: 6px 2px 16px 0px rgba(136, 165, 191, 0.48),
+    -6px -2px 16px 0px rgba(255, 255, 255, 0.8);
+}
